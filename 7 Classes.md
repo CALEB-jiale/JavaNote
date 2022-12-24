@@ -44,7 +44,7 @@ Java 管理着两个不同的内存区域：堆和栈。
 
 栈用于存放短期变量，包括对 Objects 的引用。
 
-<img src="/Users/yezixun/Documents/学习/教程/Java/上课笔记/7.1 堆和栈的关系.png" alt="堆和栈的关系" style="zoom:20%;" />
+<img src="/Users/lucas/Documents/School/计算机基础/Java ☕️/JavaNote/7.1 堆和栈的关系.png" alt="7.1 堆和栈的关系" style="zoom:50%;" />
 
 ## Encapsulation 封装
 
