@@ -1,6 +1,6 @@
 # Collections
 
-<img src="/Users/lucas/Documents/School/计算机基础/Java ☕️/JavaNote/14.1 集合框架的概述.png" alt="14.1 集合框架的概述" style="zoom:50%;" />
+<img src="https://github.com/CALEB-jiale/JavaNote/raw/main/14.1%20集合框架的概述.png" alt="14.1 集合框架的概述" style="zoom:50%;" />
 
 上图是集合框架的概述，其中绿色的是接口，蓝色的是类。
 
